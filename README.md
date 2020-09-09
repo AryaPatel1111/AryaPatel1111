@@ -49,3 +49,8 @@
 <a href="https://github.com/AryaPatel1111">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaPatel1111&theme=dark&hide_langs_below=0" />
 </a>
+
+<p align="center">
+<a href="https://twitter.com/Humorous_pitaji?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Humorous_pitaji" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/ary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AryaPatel" height="30" width="30" /></a>
+</p>
